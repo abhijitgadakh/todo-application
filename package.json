@@ -1,0 +1,12 @@
+{
+  "name": "hcj-todo-application",
+  "version": "1.0.0",
+  "description": "A simple todo application using HTML, CSS, and JavaScript",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
